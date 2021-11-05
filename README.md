@@ -1,4 +1,4 @@
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+hi
 
 ---
-⭐️ From [CyrisXD](https://github.com/CyrisXD)
+
