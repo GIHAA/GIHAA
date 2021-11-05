@@ -22,14 +22,12 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m currently learning c++/java; 
+- 🤔 Interested in Artificial intelligence, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please facebook or instergram to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
-
 
 **Languages and Tools:**  
 
