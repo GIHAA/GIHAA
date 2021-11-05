@@ -1,12 +1,12 @@
 ### Hey 👋, I'm GIHAA
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
+<a href="https://https://www.linkedin.com/in/gihan-sudeepa-177a9820a/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
+<a href="https://">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
+<a href="https://https://www.instagram.com/gihan_sudeepa/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://https://www.facebook.com/gihan.sudeepa.9/">
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engineering student** 🚀 from sri lanka.  Currently, i am studing Software Engineering at SLIIT
+Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engineering student** 🚀 from sri lanka.  Currently,I am studing Software Engineering at SLIIT
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -27,7 +27,7 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
+- 📫 Please facebook or instergram to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 
 
@@ -48,4 +48,4 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+
