@@ -27,7 +27,6 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please facebook or instergram to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 
 **Languages and Tools:**  
 
