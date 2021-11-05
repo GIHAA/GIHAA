@@ -18,7 +18,7 @@
 
 Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engineering student** 🚀 from sri lanka.  Currently,I am studing Software Engineering at SLIIT
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770" />
 
 **Talking about Personal Stuffs:**
 
