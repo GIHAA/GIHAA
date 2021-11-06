@@ -26,7 +26,6 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 - 🤔 Interested in Artificial intelligence, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please facebook or instergram to reach me.
 
 **Languages and Tools:**  
 
