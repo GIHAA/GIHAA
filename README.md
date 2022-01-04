@@ -1,7 +1,4 @@
 <!--### Hey 👋, I'm GIHAA-->
-img {
-  border-radius: 50%;
-}
 
 
 <p align="center">
