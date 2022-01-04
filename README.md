@@ -48,7 +48,7 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 
 <br>
 <br>
-<div align = "center">
+
 ![GIHAA's github stats](https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true&hide_border=true)
-</div>
+
 
