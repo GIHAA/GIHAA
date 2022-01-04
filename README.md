@@ -23,7 +23,7 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
   <img align="right" alt="GIF" weight = "400" height = "200" style="border-radius:50%" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" />
   
   
-  <img alt="GIF" weight = "400" height = "200" style="border-radius:50%" src="https://i.imgur.com/gUa3OZp.gif" />
+  <img alt="GIF"  style="border-radius:50%" src="https://i.imgur.com/gUa3OZp.gif" />
 
 **Talking about Personal Stuffs:**
 
