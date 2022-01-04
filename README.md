@@ -21,6 +21,9 @@
 Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engineering student** 🚀 from sri lanka.  Currently,I am studing Software Engineering at SLIIT
 
   <img align="right" alt="GIF" weight = "400" height = "200" style="border-radius:50%" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" />
+  
+  
+  <img align="right" alt="GIF" weight = "400" height = "200" style="border-radius:50%" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" />" />
 
 **Talking about Personal Stuffs:**
 
