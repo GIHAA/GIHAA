@@ -1,4 +1,7 @@
 ### Hey 👋, I'm GIHAA
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
+</p>
 
 <a href="https://www.linkedin.com/in/gihan-sudeepa-177a9820a/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
