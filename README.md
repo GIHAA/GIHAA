@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=600&height=65&lines=Hey👋,+Welcome+To+My+Profile+✈️+🚁+🔭+🛸+🤖+🇱🇰&center=true"></a>
 </p>
 
-<img src="https://i.imgur.com/A2iTyt8.gif">
+<img align="center"src="https://i.imgur.com/A2iTyt8.gif">
 
 <a href="https://www.linkedin.com/in/gihan-sudeepa-177a9820a/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
