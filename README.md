@@ -4,19 +4,21 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=600&height=65&lines=Hey👋,+Welcome+To+My+Profile+✈️+🚁+🔭+🛸+🤖+🇱🇰&center=true"></a>
 </p>
+<div align="center">
+<img height = 200 src="https://i.imgur.com/A2iTyt8.gif">
+</div>
 
-<img align="center" src="https://i.imgur.com/A2iTyt8.gif">
-
+<div align = "center">
 <a href="https://www.linkedin.com/in/gihan-sudeepa-177a9820a/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/gihan_sudeepa/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/gihan.sudeepa.9/">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<div>
 <br />
 <br />
 
