@@ -9,15 +9,19 @@
 </div>
 
 <div align = "center">
+<p>
 <a href="https://www.linkedin.com/in/gihan-sudeepa-177a9820a/">
-  <img  alt="LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="LinkdeIn" width="30px" margin-left = "100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+    -
 <a href="https://www.instagram.com/gihan_sudeepa/">
-  <img  alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+    -
 <a href="https://www.facebook.com/gihan.sudeepa.9/">
-  <img  alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+</p>
 <div>
 <br />
 <br />
