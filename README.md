@@ -34,7 +34,7 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning c++/java; 
+- 🌱 I’m currently learning c++; 
 - 🤔 Interested in Artificial intelligence, Computer vision, Reinforcement Learning,..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
