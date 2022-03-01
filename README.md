@@ -74,5 +74,8 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 <br>
 
 ![GIHAA's github stats](https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true&hide_border=true)
-
+<br>
+<a display: align ="center" href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=GIHAA">
+</a>
 
