@@ -1,35 +1,55 @@
-## Hi , i am Gihan sudeepa
+## Hi 👋 , i am Gihan sudeepa
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
-<a href="">
-  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-</a>
 
-<a href="">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
-</a>
-<br />
+[<img align="right" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true&count_private=true&theme=algolia"/>](https://github.com/AmitHasanShuvo/)
 
 
 #### 2nd year Software engineering Undergraduate
-#### *Currently looking for Data Scientist, Research Assistant Roles!*
-- Data Science and research enthusiast.
-- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
-- Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
-- **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
+<h3> 👨🏻‍💻 &nbsp;About Me </h3><ul>
+<li> 🤔 &nbsp; A Robotics & Open Source enthusiast. </li>
+<li> 🎓 &nbsp; Studying information technology course at SLIIT </li>
+<li> 🌱 &nbsp; love reading books/manga and watching movies </li>
+</ul>
 
 **To know more:**  [Website](https://gihaa.dev/), [LinkedIn](https://www.linkedin.com/in/gihan-sudeepa-177a9820a/), [Email](gihansudeeparandimal@gmail.com)
 
-Check the repositories section to see my efforts! Hope, you will enjoy it!
+<h3> 📚 &nbsp;projects </h3>
+<br>
+<table>
+<tr>
+  <th width = "170">IOT</th>
+  <th width = "150">Robotics</th>
+  <th width = "150">Web dev</th>
+  <th width = "150">App</th>
+  <th width = "150">Others</th>
+</tr>
+
+<tr>
+    <td><a href="https://github.com/GIHAA/carpark_iot_back-end">car park IOT</a></td>
+    <td><a href="https://github.com/GIHAA/LUCUS">lucus</a></td>
+    <td><a href="https://github.com/GIHAA/portfolio">portfolio</a></td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.Snowball">Snow-ball</a></td>
+    <td><a href=""></a></td>
+</tr>
+
+<tr>
+    <td><a href="https://github.com/GIHAA/bench-saw_safety-stop">bench-saw-safety</a></td>
+    <td><a href="https://github.com/GIHAA/Snowy-open">Snowy</a></td>
+    <td><a href=""></a></td>
+    <td><a href="https://github.com/GIHAA/JAVA.apps">JAVA apps</a></td>
+    <td><a href=""></a></td>
+</tr>
+
+<tr>
+    <td><a href="https://github.com/GIHAA/Fuel-level-indicator">Fuel-level-indicator</a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+</tr>
+
+</table>
+
 
 
