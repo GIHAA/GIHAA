@@ -43,7 +43,7 @@
 
 <tr>
     <td><a href="https://github.com/GIHAA/Fuel-level-indicator">Fuel-level-indicator</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/GIHAA/egg-incubator">egg-incubator</a></td>
     <td><a href="https://gihaa.dev/fs-3D-readme/">3D-readme</a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
@@ -64,7 +64,7 @@ const person = (body,mind) => {
 		knowlege++;
 		
 		if(mind.distractions){
-			while(!mind.distractions){
+			while(mind.distractions){
 				body.pushUps(10);
 			}
 		}
