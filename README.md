@@ -61,7 +61,7 @@
 <br>
 
 ```javascript
-//phoenix protocol v.3
+//phoenix protocol v3
 const person = (body,mind) => {
 	let level;
 	let knowlege;
