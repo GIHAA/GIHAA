@@ -13,7 +13,7 @@
 </ul>
 
 **To know more:**  [Website](https://gihaa.dev/), [LinkedIn](https://www.linkedin.com/in/gihan-sudeepa-177a9820a/), [Email](gihansudeeparandimal@gmail.com)
-
+<!-- 
 <h3> 📚 &nbsp;projects </h3>
 <br>
 <table>
@@ -59,24 +59,5 @@
 </table>
 
 <br>
-
-```javascript
-//phoenix protocol v3
-const person = (body,mind) => {
-	let level;
-	let knowlege;
-
-	while(body.health){
-		level++;
-		knowlege++;
-		
-		if(mind.distractions){
-			while(mind.distractions){
-				body.pushUps(10);
-			}
-		}
-	}
-}
-```
-
+ -->
 
