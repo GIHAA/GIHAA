@@ -5,7 +5,7 @@
 [<img align="right" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true&count_private=true&theme=algolia"/>](https://github.com/AmitHasanShuvo/)
 
 
-#### 2nd year Software engineering Undergraduate
+#### 3nd year Software engineering Undergraduate
 <h3> 👨🏻‍💻 &nbsp;About Me </h3><ul>
 <li> 🤔 &nbsp; A Robotics & Open Source enthusiast. </li>
 <li> 🎓 &nbsp; Studying information technology course at SLIIT </li>
