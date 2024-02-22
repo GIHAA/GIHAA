@@ -2,7 +2,7 @@
 
 
 
-[<img align="right" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true&count_private=true&theme=algolia"/>](https://github.com/AmitHasanShuvo/)
+
 
 
 #### 3nd year Software engineering Undergraduate
