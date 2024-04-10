@@ -1,4 +1,4 @@
-## Hi 👋 , i am Gihan sudeepa
+## Hi 👋 , I am Gihan sudeepa
 
 
 
